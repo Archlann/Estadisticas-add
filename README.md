@@ -1,2 +1,0 @@
-# Estadisticas-add
-Adición estadísticas
